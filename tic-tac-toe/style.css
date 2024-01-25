@@ -29,7 +29,7 @@ section {
     width: 306px;
     margin: 10px auto;
     background-color: white;
-    color: #04c0b2;
+    color: orange;
 }
 
 .game--status {
@@ -39,7 +39,7 @@ section {
 }
 
 .game--restart {
-    background-color: #f7e4ac;
+    background-color: black;
     width: 200px;
     height: 50px;
     font-size: 25px;
