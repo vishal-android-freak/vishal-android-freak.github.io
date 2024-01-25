@@ -19,7 +19,7 @@ section {
 
 .game--title {
     font-size: 100px;
-    color: #d7a62f;
+    color: orange;
     margin: 10px auto;
 }
 
@@ -28,13 +28,13 @@ section {
     grid-template-columns: repeat(3, auto);
     width: 306px;
     margin: 10px auto;
-    background-color: #11213a;
+    background-color: white;
     color: #04c0b2;
 }
 
 .game--status {
     font-size: 50px;
-    color: #d7a62f;
+    color: orange;
     margin: 20px auto;
 }
 
@@ -43,7 +43,7 @@ section {
     width: 200px;
     height: 50px;
     font-size: 25px;
-    color: #5586e2;
+    color: orange;
     box-shadow: 2px 2px 2px 2px #d86c23;
     border: 2px solid #d86c23;
 }
