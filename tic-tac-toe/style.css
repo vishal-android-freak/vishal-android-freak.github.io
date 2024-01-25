@@ -18,7 +18,7 @@ section {
 }
 
 .game--title {
-    font-size: 60px;
+    font-size: 30px;
     color: orange;
     margin: 10px auto;
 }
@@ -33,7 +33,7 @@ section {
 }
 
 .game--status {
-    font-size: 50px;
+    font-size: 24px;
     color: orange;
     margin: 20px auto;
 }
